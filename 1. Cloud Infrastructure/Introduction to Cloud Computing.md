@@ -29,7 +29,7 @@ Customizable options for VMs -
 
 VM names also carry information - 
 
-![[Pasted image 20260923001808.png]]
+![Pasted image](static/Pasted%20image%2020260923001808.png)
 
 You can also group VMs together. Azure can manage groupings with features like scale sets and availability sets.
 
