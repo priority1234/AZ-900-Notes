@@ -1,0 +1,1 @@
+Cloud computing platform. provides services, like hosting apps, running VMs, remote storage, database hosting
