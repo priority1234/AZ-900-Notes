@@ -1,6 +1,6 @@
 This means that both the cloud provider and the customer have different responsibilities based on the service model they have subscribed to. 
 
-![[Pasted image 20260916234310.png]]
+![](../Static/Pasted%20image%2020260916234310.png)
 
 Cloud provider is responsible for securing the underlying infra like data centers, physical hardware, networking and the cloud platform
 

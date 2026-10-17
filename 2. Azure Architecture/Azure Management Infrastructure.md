@@ -4,7 +4,7 @@ The management infrastructure includes Azure resources and resource groups, subs
 
 Resource is the basic building block of Azure. Anything created, provisioned or deployed is a resource ex - VMs, virtual networks, database etc.
 
-![[Pasted image 20260922235044.png]]
+![](../Static/Pasted%20image%2020260922235044.png)
 
 A resource is only associated with one group at a time.
 Can't be nested.
@@ -16,11 +16,11 @@ Actions applied to a resource group affect all the resources inside it.
 
 Subscriptions are a unit of management, billing and scale. It lets you organize resource groups and billing separately from access.
 
-![[Pasted image 20260922235253.png]]
+![](../Static/Pasted%20image%2020260922235253.png)
 
 An azure subscription links to an Azure Account. An account can have multiple subscriptions. 
 
-![[Pasted image 20260923000654.png]]
+![](../Static/Pasted%20image%2020260923000654.png)
 
 There are 2 types of Subscription Boundaries -
 - **Billing boundary**: Determines how an Azure account is billed. You can create multiple subscriptions for different billing requirements. Azure generates separate billing reports and invoices for each subscription.
@@ -45,7 +45,7 @@ Important facts about management groups:
 - A single directory supports up to 10,000 management groups.
 - Each management group and subscription can have only one parent.
 
-![[Pasted image 20260923000747.png]]
+![](../Static/Pasted%20image%2020260923000747.png)
 
 Examples of how you could use management groups:
 

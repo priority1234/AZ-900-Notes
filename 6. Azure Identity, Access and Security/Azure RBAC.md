@@ -6,7 +6,7 @@ When an individual or groups are assigned a role, they receive all associated pe
 
 **RBAC for Resources**
 
-![[Pasted image 20260929234513.png]]
+![](../Static/Pasted%20image%2020260929234513.png)
 
 RBAC is applied to a scope. a scope can be a group, subscription, resource group or individual resource.
 

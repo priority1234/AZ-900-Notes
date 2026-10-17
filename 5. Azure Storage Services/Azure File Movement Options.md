@@ -1,6 +1,6 @@
 Azure has tools to move or interact with individual files or small file groups.
 Tools like AzCopy, Azure Storage Explorer, Azure File Sync
-![[Pasted image 20260928230518.png]]
+![](../Static/Pasted%20image%2020260928230518.png)
 
 **AzCopy**
 

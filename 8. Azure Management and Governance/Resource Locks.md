@@ -4,7 +4,7 @@ Managed from Azure Portal, PowerShell, Azure CLI or Azure Resource Manager Templ
 
 To modify a locked resource, first remove the lock, then perform the activity you need to perform.
 
-![[Pasted image 20260930021651.png]]
+![](../Static/Pasted%20image%2020260930021651.png)
 
 **Types of resource locks**
 

@@ -3,7 +3,7 @@ Tags help you understand your cloud usage and helps manage costs.
 other than subscriptions or resource groups for related resources. You can also use Resource Tags to organize resources.
 Tags provide extra information or metadata about resources. 
 
-![[Pasted image 20260930005438.png]]
+![](../Static/Pasted%20image%2020260930005438.png)
 
 - **Resource management** Tags enable you to locate and act on resources that are associated with specific workloads, environments, teams, and owners.
 - **Cost management and optimization** Tags enable you to group resources so that you can report on costs, allocate internal cost centers, track budgets, and forecast estimated cost.
@@ -20,5 +20,5 @@ You can use Azure Policy to enforce tagging rules and conventions. Resources don
 
 Example - 
 
-![[Pasted image 20260930005753.png]]
+![](../Static/Pasted%20image%2020260930005753.png)
 

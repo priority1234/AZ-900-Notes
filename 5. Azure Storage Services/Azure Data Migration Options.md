@@ -1,6 +1,6 @@
 Supports both real time migration using Azure Migrate as well as asynchronous migration using Azure Data Box
 
-![[Pasted image 20260928225546.png]]
+![](../Static/Pasted%20image%2020260928225546.png)
 
 **Azure Migrate** 
 

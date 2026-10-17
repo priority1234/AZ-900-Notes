@@ -6,7 +6,7 @@ Datacenters are facilities where servers arranged in racks with dedicated power,
 
 Datacenters are grouped into Azure regions and Azure Availability zones.
 
-![[Pasted image 20260922233842.png]]
+![](../Static/Pasted%20image%2020260922233842.png)
 
 
 **Regions** - 
@@ -18,7 +18,7 @@ When deploying resources, you need to choose a region where the resource will be
 
 Availability zones are physically separate datacenters within an azure region. it is set up to be an isolation boundary. If one zone goes down, the other keeps working. Connected through high speed, private fiber optic networks.
 
-![[Pasted image 20260922234137.png]]
+![](../Static/Pasted%20image%2020260922234137.png)
 
 Azure services that support availability zones fall into three categories:
 
@@ -26,7 +26,7 @@ Azure services that support availability zones fall into three categories:
 - Zone-redundant services: The platform replicates automatically across zones (for example, zone-redundant storage, SQL Database).
 - Non-regional services: Services are always available from Azure geographies and are resilient to zone-wide outages as well as region-wide outages.
 
-![[Pasted image 20260922234258.png]]
+![](../Static/Pasted%20image%2020260922234258.png)
 
 
 **Region Pairs** - 
@@ -35,7 +35,7 @@ Most Azure Regions are paired with another region within the same geography at l
 For example, if a region in a pair was affected by a natural disaster, services would automatically fail over to the other region in its region pair.
 Examples of region pairs in Azure are West US paired with East US and Southeast Asia paired with East Asia.
 
-![[Pasted image 20260922234447.png]]
+![](../Static/Pasted%20image%2020260922234447.png)
 
 
 #### Additional advantages of region pairs:

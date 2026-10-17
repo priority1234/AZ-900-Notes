@@ -1,6 +1,6 @@
 Service Categories - 
 
-![[Pasted image 20260922233111.png]]
+![](../Static/Pasted%20image%2020260922233111.png)
 
 ## Practical example
 
@@ -8,7 +8,7 @@ Suppose your organization runs an internal app with seasonal demand spikes. In A
 
 For example, Azure provides Azure AI services and Azure OpenAI Service so you can add language, vision, speech, and generative AI capabilities to your applications. It also provides Azure Machine Learning, Internet of Things (IoT) services, and storage solutions that dynamically grow to accommodate massive amounts of data. Azure services enable solutions that aren't feasible without the power of the cloud.
 
-![[Pasted image 20260922233334.png]]
+![](../Static/Pasted%20image%2020260922233334.png)
 
 Azure access can be purchased directly from Microsoft, a partner, or through a Microsoft representative.
 

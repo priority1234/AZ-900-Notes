@@ -31,7 +31,7 @@ Continuously Assess - Know your security posture, identify and track vulnerabili
 Secure - Harden resources and services with Microsoft cloud security benchmark (MCSB)
 Defend - Detect and resolve threats to resources
 
-![[Pasted image 20260930002345.png]]
+![](../Static/Pasted%20image%2020260930002345.png)
 
 **Continuously Assess**
 

@@ -2,7 +2,7 @@ Azure uses pay as you go model.
 Rent what's needed and release when done.
 Consumption scales with actual usage.
 
-![[Pasted image 20260930003253.png]]
+![](../Static/Pasted%20image%2020260930003253.png)
 
 **Resource Type**
 
@@ -23,7 +23,7 @@ With Reservations, you can commit to specific resources for one or three year te
 For flexibility in which compute resources you use, Azure savings plan for compute is also an option. You commit to an hourly spend amount on eligible compute services for one or three years and azure applies best available price as usage occurs.
 For workload that can handle interruptions, Azure Spot Virtual Machines can reduce cost. It uses unused Azure capacity at lower prices, but those resources are evicted when azure needs them.
 
-![[Pasted image 20260930003800.png]]
+![](../Static/Pasted%20image%2020260930003800.png)
 
 
 **Maintenance**

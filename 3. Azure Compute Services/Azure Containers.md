@@ -22,7 +22,7 @@ PaaS offering. Container apps include built in load balancing and scaling. Basic
 **Azur Kubernetes Service** - 
 Container Orchestration Service. This manages lifecycle of the containers. 
 
-![[Pasted image 20260923004801.png]]
+![](../Static/Pasted%20image%2020260923004801.png)
 
 
 Containers are often used to create solutions that use microservice architecture. 

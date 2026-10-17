@@ -1,7 +1,7 @@
 Helps you stay informed about the health of Azure itself and the specific resources you run. 
 Combines 3 views that narrow in scope from global down to individual resources
 
-![[Pasted image 20260930024455.png]]
+![](../Static/Pasted%20image%2020260930024455.png)
 
 **Three Health Views**
 

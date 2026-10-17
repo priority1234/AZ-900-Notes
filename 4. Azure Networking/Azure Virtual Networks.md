@@ -50,13 +50,13 @@ Azure resources communicate with each other through -
 
 - Network security groups are Azure resources that can contain multiple inbound and outbound security rules. You can define these rules to allow or block traffic, based on factors such as source and destination IP address, port, and protocol.
 - Network virtual appliances are specialized VMs that can be compared to a hardened network appliance. A network virtual appliance carries out a particular network function, such as running a firewall or performing wide area network (WAN) optimization.
-![[Pasted image 20260924234042.png]]
+![](../Static/Pasted%20image%2020260924234042.png)
 
 **Connect Virtual Networks** -
 
 Can link virtual networks together by using virtual network peering. Allows 2 virtual networks to connect directly. Network traffic is private and travels on Microsoft network, never on public network. 
 These VNets can be in separate regions, which lets you create a global interconnected network through Azure.
 
-![[Pasted image 20260924234259.png]]
+![](../Static/Pasted%20image%2020260924234259.png)
 
 

@@ -15,7 +15,7 @@ Single Sign-on (SSO) - Allows one identity to access multiple apps.
 Application Management - Manages cloud and on-prem apps through application proxy, SaaS app integration and My Apps portal.
 Device Management - Device registration and management through Microsoft Intune. Enables conditional access policies that restrict access to known devices.
 
-![[Pasted image 20260928231951.png]]
+![](../Static/Pasted%20image%2020260928231951.png)
 
 
 **Connecting On-Prem AD with Microsoft Entra ID**
@@ -41,7 +41,7 @@ A managed domain is configured to perform a one way sync from Entra ID to Entra 
 In a hybrid env with on-prem AD DS environment, Microsoft Entra Connect syncs identity information with Microsoft Entra ID which is then synced to managed domain. 
 
 
-![[Pasted image 20260928233336.png]]
+![](../Static/Pasted%20image%2020260928233336.png)
 
 
 Applications, services and VMs in Azure that connect to the managed domain can then use common Microsoft Entra Domain Services features such as domain join, group policy, LDAP and Kerberos/NTLM authentication.

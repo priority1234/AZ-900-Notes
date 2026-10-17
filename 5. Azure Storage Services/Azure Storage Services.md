@@ -1,5 +1,5 @@
 Core data services are - 
-![[Pasted image 20260925003922.png]]
+![](../Static/Pasted%20image%2020260925003922.png)
 
 
 **Benefits of Azure Storage**
@@ -19,7 +19,7 @@ Cool Access Tier - For data that is accessed infrequently and stored for at leas
 Cold Access Tier -  For data that is accessed infrequently and stored for at least 90 days
 Archive Access Tier - For data rarely accessed. Stored for at least 180 days.
 
-![[Pasted image 20260928224926.png]]
+![](../Static/Pasted%20image%2020260928224926.png)
 
 **Azure Files** 
 

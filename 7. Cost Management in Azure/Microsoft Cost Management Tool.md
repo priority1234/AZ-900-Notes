@@ -2,7 +2,7 @@ set of tools to help analyze, monitor and manage azure costs to avoid accidental
 
 Cost Management provides the ability to check Resource costs, create alerts based on spend and create budgets that can be used to automate management of resources.
 
-![[Pasted image 20260930004646.png]]
+![](../Static/Pasted%20image%2020260930004646.png)
 
 Cost analysis provides a visual for Azure costs. 
 You can view total cost in diff ways, including by billing cycle, region, resource etc.

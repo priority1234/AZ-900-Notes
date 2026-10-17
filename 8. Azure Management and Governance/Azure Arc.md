@@ -1,7 +1,7 @@
 Azure Arc works with Azure Resource Manager to extend your Azure compliance and monitoring to hybrid and multicloud configurations. 
 It simplifies governance and management by delivering a consistent multicloud and on-prem management platform.
 
-![[Pasted image 20260930023052.png]]
+![](../Static/Pasted%20image%2020260930023052.png)
 
 provides a unified way to -
 

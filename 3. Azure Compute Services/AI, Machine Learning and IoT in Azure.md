@@ -17,5 +17,5 @@ Used for building, training and managing custom machine learning models
 - Azure IoT Hub enables secure, bi-directional communication between cloud services and IoT devices.
 - Azure IoT Central provides a simplified software as a service (SaaS) IoT platform for solution builders.
 - Azure IoT Edge extends cloud capabilities to edge devices so some workloads can run closer to where data is generated.
-![[Pasted image 20260924231927.png]]
+![](../Static/Pasted%20image%2020260924231927.png)
 

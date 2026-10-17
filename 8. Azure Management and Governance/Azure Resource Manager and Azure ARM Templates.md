@@ -1,7 +1,7 @@
 Deployment and management service for Azure. It allows you to create, update and delete resources in Azure account.
 User sends request. Azure Resource Manager receives the request. It authenticates and authorizes the request. It sends the request to the Azure Service which takes requested action. 
 
-![[Pasted image 20260930023429.png]]
+![](../Static/Pasted%20image%2020260930023429.png)
 
 **Azure Resource Manager Benefits**
 

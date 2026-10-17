@@ -1,7 +1,7 @@
 Event Driven serverless compute option. 
 An event wakes the function so resources are not provisioned when there are no events.
 
-![[Pasted image 20260924231146.png]]
+![](../Static/Pasted%20image%2020260924231146.png)
 
 **Benefits of Serverless Computing** -
 

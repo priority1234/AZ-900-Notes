@@ -1,7 +1,7 @@
 Platform for collecting, analyzing and acting on data from Azure resources and applications. 
 It works with Azure, on-prem and multicloud environments.
 
-![[Pasted image 20260930024649.png]]
+![](../Static/Pasted%20image%2020260930024649.png)
 
 It gathers logs and metrics from your apps, OS and network layers. Stores it centrally and makes it available through dashboards, queries and alerts.
 

@@ -1,7 +1,7 @@
 It is a service that allows you to create, assign and manage policies that control or audit your resources. 
 This enforces different rules across your resource configurations so that those configurations stay compliant with your standards.
 
-![[Pasted image 20260930015246.png]]
+![](../Static/Pasted%20image%2020260930015246.png)
 
 
 It allows you to define both individual policies and groups of related policies known as initiatives.  Azure Policy evaluates your resources and highlights resources that aren't compliant with the policies you've created. Azure Policy can also prevent noncompliant resources from being created.

@@ -9,7 +9,7 @@ A type of Virtual network Gateway. Azure VPN Gateways instances are deployed in 
 - Connect on-premises datacenters to virtual networks through a site-to-site connection.
 - Connect individual devices to virtual networks through a point-to-site connection.
 - Connect virtual networks to other virtual networks through a network-to-network connection.
-![[Pasted image 20260924234610.png]]
+![](../Static/Pasted%20image%2020260924234610.png)
 
 
 You can deploy only one VPN Gateway in each virtual network. 

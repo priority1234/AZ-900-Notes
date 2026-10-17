@@ -5,7 +5,7 @@ Azure provides multiple tools for managing your environment -
 
 Can also use copilot to accelerate common operations tasks like exploring services, understanding configuration options etc.
 
-![[Pasted image 20260930022217.png]]
+![](../Static/Pasted%20image%2020260930022217.png)
 
 **AI Assisted operations with Copilot in Azure**
 

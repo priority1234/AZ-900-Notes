@@ -1,4 +1,4 @@
-![[Pasted image 20260929232344.png]]
+![](../Static/Pasted%20image%2020260929232344.png)
 
 
 **Single Sign On (SSO)**
@@ -24,7 +24,7 @@ Entra ID supports 3 passwordless options -
 1. Windows Hello for Business
 2. Microsoft authenticator
 3. FIDO2 security keys
-![[Pasted image 20260929232910.png]]
+![](../Static/Pasted%20image%2020260929232910.png)
 
 **Windows Hello for Business**
 

@@ -1,7 +1,7 @@
 This lets you extend your on-prem networks into Microsoft cloud over a private connection. This is called ExpressRoute Circuit. 
 Each location has its own ExpressRoute Circuit.
 
-![[Pasted image 20260924235812.png]]
+![](../Static/Pasted%20image%2020260924235812.png)
 
 ExpressRoute connections don't go over public internet. 
 

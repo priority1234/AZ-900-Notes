@@ -27,13 +27,13 @@ Geo-redundant Storage(GRS) -
 
 copies data synchronously 3 times in primary region(LRS), then asynchronously to the secondary region (LRS). provides 16 nines of durability.
 
-![[Pasted image 20260925003335.png]]
+![](../Static/Pasted%20image%2020260925003335.png)
 
 Geo-zone-redundant storage -
 
 GZRS combines zone-level resilience in primary region with geo-replication to a secondary region. Data is copied across 3 zones in primary region and then to the Secondary region using LRS. 16 nines of durability.
 
-![[Pasted image 20260925003508.png]]
+![](../Static/Pasted%20image%2020260925003508.png)
 
 
 **Read access to data in Secondary region** -

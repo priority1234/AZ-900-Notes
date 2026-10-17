@@ -6,7 +6,7 @@ Verify Explicitly - Always authenticate and authorize based on all available dat
 Use least privilege access - Limit user access with Just-in-Time and Just-Enough-Access (JIT/JEA) policies.
 Assume Breach - Verify end-to-end encryption. use analytics to get visibility, drive threat detection and improve defenses
 
-![[Pasted image 20260929235012.png]]
+![](../Static/Pasted%20image%2020260929235012.png)
 
 
 **Defense in depth**
@@ -16,7 +16,7 @@ Uses series of mechanisms to slow down an attack.
 
 **Layers of Defense in Depth**
 
-![[Pasted image 20260929235205.png]]
+![](../Static/Pasted%20image%2020260929235205.png)
 
 Here's a brief overview of the role of each layer:
 
